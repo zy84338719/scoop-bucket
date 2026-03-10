@@ -1,0 +1,25 @@
+{
+    "version": "1.4.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/zy84338719/upftp/releases/download/v1.4.0/upftp_Windows_386.zip",
+            "bin": [
+                "upftp.exe"
+            ],
+            "hash": "33df96acccdbc9f0c7497ecdfae1cfcab10a73483855a1079cbf0c567d83a877"
+        },
+        "64bit": {
+            "url": "https://github.com/zy84338719/upftp/releases/download/v1.4.0/upftp_Windows_x86_64.zip",
+            "bin": [
+                "upftp.exe"
+            ],
+            "hash": "e6aebb6e7123869d73a2d474e99260df4ca636db5b0adf0e29a32c7e8422e584"
+        }
+    },
+    "homepage": "https://github.com/zy84338719/upftp",
+    "license": "MIT",
+    "description": "Modern cross-platform file sharing server",
+    "persist": [
+        "data"
+    ]
+}
