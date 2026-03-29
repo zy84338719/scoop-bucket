@@ -6,14 +6,14 @@
             "bin": [
                 "upftp.exe"
             ],
-            "hash": "da66229519d4f1153fe038b2851e27f96ebd3617b4f39646249c28dc3c310b91"
+            "hash": "afd2984cc3e56dc3eebed0bb57c5bec867f7daf9a6a8e7a6727615050499d0ed"
         },
         "64bit": {
             "url": "https://github.com/zy84338719/upftp/releases/download/v2.3.6/upftp_Windows_x86_64.zip",
             "bin": [
                 "upftp.exe"
             ],
-            "hash": "3c27c91e8d49d21e13b5efef91a35d7e5b7205aeddf6eeb9c2288eb3dd8d5493"
+            "hash": "3d034a859ff545546876c653c0332e66a04dea8f9857665c80c4853552daa42f"
         }
     },
     "homepage": "https://github.com/zy84338719/upftp",
